@@ -2,7 +2,7 @@
  * PLL.h
  *
  *  Created on: Nov 1, 2018
- *      Author: eng-magdy
+ *      Author:
  */
 
 #ifndef MCAL_PLL_PLL_H_

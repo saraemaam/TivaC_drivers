@@ -2,7 +2,7 @@
  * CAN_Prog.c
  *
  *  Created on: Aug 16, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 

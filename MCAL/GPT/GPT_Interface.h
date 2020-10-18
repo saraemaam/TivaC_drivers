@@ -2,7 +2,7 @@
  * TIMER_Interface.h
  *
  *  Created on: Aug 19, 2020
- *      Author: Eng.Magdy_2
+ *      Author:
  */
 
 #ifndef MCAL_GPT_GPT_INTERFACE_H_

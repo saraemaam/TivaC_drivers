@@ -2,7 +2,7 @@
  * GPIO_Private.h
  *
  *  Created on: Nov 18, 2018
- *      Author: eng-magdy
+ *      Author:
  */
 
 #ifndef MCAL_GPIO_GPIO_PRIVATE_H_

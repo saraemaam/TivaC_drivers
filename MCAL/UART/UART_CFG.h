@@ -2,7 +2,7 @@
  * UART_CFG.h
  *
  *  Created on: Nov 17, 2018
- *      Author: eng-magdy
+ *      Author: 
  */
 
 #ifndef MCAL_UART_UART_CFG_H_

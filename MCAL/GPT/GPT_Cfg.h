@@ -2,7 +2,7 @@
  * TIMER_Cfg.h
  *
  *  Created on: Aug 19, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 #ifndef MCAL_GPT_GPT_CFG_H_

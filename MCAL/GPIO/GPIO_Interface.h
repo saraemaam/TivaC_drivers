@@ -2,7 +2,7 @@
  * GPIO_Interface.h
  *
  *  Created on: Nov 20, 2018
- *      Author: eng-magdy
+ *      Author: 
  */
 
 #ifndef MCAL_GPIO_GPIO_INTERFACE_H_

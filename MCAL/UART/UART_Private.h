@@ -2,7 +2,7 @@
  * UART_Private.h
  *
  *  Created on: Nov 17, 2018
- *      Author: eng-magdy
+ *      Author: 
  */
 
 #ifndef MCAL_UART_UART_PRIVATE_H_

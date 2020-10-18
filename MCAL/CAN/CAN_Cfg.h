@@ -2,7 +2,7 @@
  * CAN_Cfg.h
  *
  *  Created on: Aug 16, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 #ifndef MCAL_CAN_CAN_CFG_H_
