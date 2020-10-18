@@ -2,7 +2,7 @@
  * Common_Func.h
  *
  *  Created on: Nov 17, 2018
- *      Author: eng-magdy
+ *      Author:
  */
 
 #ifndef UTL_COMMON_FUNC_H_

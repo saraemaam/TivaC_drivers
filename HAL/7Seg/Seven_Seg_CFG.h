@@ -2,7 +2,7 @@
  * Seven_Seg_CFG.h
  *
  *  Created on: Aug 10, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 #ifndef HAL_7SEG_SEVEN_SEG_CFG_H_

@@ -2,7 +2,7 @@
  * DIP_SW_CFG.h
  *
  *  Created on: Aug 23, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 #ifndef HAL_DIP_SW_DIP_SW_CFG_H_

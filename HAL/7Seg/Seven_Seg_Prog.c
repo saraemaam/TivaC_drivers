@@ -2,7 +2,7 @@
  * Seven_Seg_Prog.c
  *
  *  Created on: Aug 11, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 /*============================================================*/

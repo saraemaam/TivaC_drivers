@@ -2,7 +2,7 @@
  * LED_CFG.h
  *
  *  Created on: Aug 16, 2020
- *      Author: Eng.Magdy_2
+ *      Author: 
  */
 
 #ifndef HAL_LED_LED_CFG_H_
